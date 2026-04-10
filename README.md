@@ -48,7 +48,16 @@ SBTI（简化版MBTI）以经典人格理论为基础，通过一系列针对性
 
 3. 根据自身实际情况，选择每道题的符合选项，完成所有题目后提交。
 
-4. 系统自动生成测试结果，可查看详细解读、保存或分享结果。
+4. 系统自动生成测
+
+## 🚀 快速部署
+
+选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV)  
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)  
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LibreSpark/LibreTV)试结果，可查看详细解读、保存或分享结果。
+
 
 ## 免责声明
 
